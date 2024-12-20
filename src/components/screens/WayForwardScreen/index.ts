@@ -1,0 +1,1 @@
+export { WayForwardScreen } from './WayForwardScreen';

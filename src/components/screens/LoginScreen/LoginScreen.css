@@ -1,0 +1,73 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.login-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.login-header h1 {
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.login-header p {
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.login-form {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.login-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+}
+
+.grow-items {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+  gap: 8px;
+}
+
+.grow-item {
+  padding: 6px 12px;
+  border-radius: 16px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.goal {
+  background-color: #e7f5e7;
+  color: #2e7d32;
+}
+
+.reality {
+  background-color: #e3f2fd;
+  color: #1976d2;
+}
+
+.options {
+  background-color: #fff3e0;
+  color: #f57c00;
+}
+
+.will {
+  background-color: #fbe9e7;
+  color: #d84315;
+}
